@@ -38,7 +38,7 @@ A machine learning application that estimates loan interest rates based on vario
 
 ```bash
 # Clone the repository
-git clone https://github.com/MouadHsb/Interest-Rate-Estimator
+git clone https://github.com/Touati20/Interest-Rate-Estimator
 cd IntRateEstimator
 
 # Install dependencies for the web application
@@ -102,4 +102,4 @@ The application is configured for deployment on Render:
 - HTML/CSS/JavaScript
 
 ## Authors
-- Mouad El Hasbaoui
+- Ayoub TOUATI
